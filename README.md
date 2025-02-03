@@ -12,4 +12,6 @@ Now I'm studying something that I always recognized to have been an inseparable 
 
 ## Skills
 I will list a few skills in programming in here. So far I feel that as a student I'm more like a jack of all trades when it comes to programming, since we (as a class) jump relatively quickly from one programming language to another,
-so mastery has to come with time and honing skills.
+so mastery has to come with time and honing skills. That in mind, at least the basics of these languages are adopted.
+
+The list: Angular, C#, JavaScript, jQuery, Python, Typescript, SQL, React.JS, REST API
